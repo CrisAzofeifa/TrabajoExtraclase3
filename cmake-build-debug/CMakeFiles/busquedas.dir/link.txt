@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/busquedas.dir/main.cpp.o CMakeFiles/busquedas.dir/Secuencial.cpp.o CMakeFiles/busquedas.dir/Binaria.cpp.o CMakeFiles/busquedas.dir/Interpolacion.cpp.o  -o busquedas 
